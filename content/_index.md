@@ -7,6 +7,6 @@ This is an open access repository.
 
 Lets make a test and add more content here
 
-and let us go to [A test](content/notes/A%20test.md)
+and let us go to [First note](content/notes/First%20note.md)
 
 ## also, a title ##

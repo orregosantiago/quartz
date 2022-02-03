@@ -1,7 +1,7 @@
 ---
 title: Santiago's vault
 ---
-NO
+This is the index and it is going well so far. The fetching process has been working pretty well. Now it is just time to make some adjusstments and try automatizations.
 
 Lets make a test and add more content here
 

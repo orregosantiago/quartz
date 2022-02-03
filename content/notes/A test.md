@@ -2,4 +2,4 @@
 title: "{{A test}}"
 ---
 
-Now I am going to link home [_index](https://orregosantiago.github.io/quartz/)
+Now I am going to link home [Home](https://orregosantiago.github.io/quartz/)

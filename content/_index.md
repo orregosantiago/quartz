@@ -7,4 +7,6 @@ This is an open access repository.
 
 Lets make a test and add more content here
 
+and let us go to [A test](notes/A%20test.md)
+
 ## also, a title ##

@@ -6,6 +6,8 @@ This is an experimental site based on the premise of creating a second brain by 
 A link to [First note](notes/First%20note.md)
 
 ## h2 ##
+This here would be the first section
+
 ### h3 ##
 
 ## h2 ##

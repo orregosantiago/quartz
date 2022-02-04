@@ -1,14 +1,26 @@
 ---
-title: "🪴 Santiago's vault"
+title: 🪴 Quartz 3
 ---
-This is an experimental site based on the premise of creating a second brain by making connections, avoiding linearity and releasing multiplicity. 
+Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
+1. Extremely fast full-text search by pressing `/`
+2. Display for backlinks of each note
+3. Fully customizable local graph view
+4. Endlessly powerful page and theme customization using CSS
+5. Automatically generated tag and section lists of content
+6. Beautiful link previews
 
-A link to [First note](notes/First%20note.md)
+## Get Started
+> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
 
-## h2 ##
-This here would be the first section
+Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
 
-### h3 ##
-pretty specific numbered list
+## Content Lists
+If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
 
-## h2 ##
+- [All Notes](/notes)
+- [Setup-related Notes](/tags/setup)
+
+## Troubleshooting
+- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
+- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
+- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)

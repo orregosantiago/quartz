@@ -1,11 +1,7 @@
 ---
 title: "Santiago's vault"
 ---
-Some sample content here. 
-
-```
-it is seem like the inner links are not working!
-```
+This is an experimental site based on the premise of creating a second brain by making connections, avoiding linearity and releasing multiplicity. 
 
  go to [First note](notes/First%20note.md)
 

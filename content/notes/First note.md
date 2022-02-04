@@ -3,4 +3,4 @@ title: "first note"
 ---
 # This is the first note #
 
-Some introductory text.
+Some introductory text. The publication delay is **huge!**

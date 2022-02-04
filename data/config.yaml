@@ -1,11 +1,8 @@
-name: Jacky Zhao
+name: Santiago Orrego
 enableToc: true
 enableLinkPreview: true
-description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
-page_title:
-  "🪴 Quartz 3"
+description: This is an experimental site based on the premise of creating a second brain by making connections, avoiding linearity and releasing multiplicity.
+page_title: "🪴 Santiago's vault"
 links:
   - link_name: Twitter
     link: https://twitter.com/_jzhao

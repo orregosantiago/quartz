@@ -7,7 +7,9 @@
     <div class="singlePage">
       <!-- Begin actual content -->
       <header>
-        <h1 id="page-title">"Santiago's vault</h1>
+        <h1 id="page-title">
+          <a href="{{ .Site.BaseURL }}">{{ .Site.Data.config.page_title }}</a>
+        </h1>
         <svg
           tabindex="0"
           id="search-icon"

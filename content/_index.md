@@ -1,15 +1,9 @@
 ---
-title: 🪴 Quartz 3
+title: "🪴 Santiago's vault"
 ---
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
-1. Extremely fast full-text search by pressing `/`
-2. Display for backlinks of each note
-3. Fully customizable local graph view
-4. Endlessly powerful page and theme customization using CSS
-5. Automatically generated tag and section lists of content
-6. Beautiful link previews
+This is an experimental site based on the premiseof creating a *second brain* by making connections. avoiding linearity, and releasing multiplicity.
 
-## Get Started
+## h2
 > 📚 [Setup your own digital garden using Quartz](notes/setup.md)
 
 Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!

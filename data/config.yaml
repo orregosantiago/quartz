@@ -1,10 +1,13 @@
-name: This blog was made
+name: Jacky Zhao
 enableToc: true
 enableLinkPreview: true
-description: This is an experimental site based on the premise of creating a second brain by making connections, avoiding linearity and releasing multiplicity.
-page_title: "🪴 Santiago's vault"
+description:
+  Here is the page description. This is an example Quartz site that details installation,
+  setup, customization, and troubleshooting for Quartz itself.
+page_title:
+  "🪴 Quartz 3"
 links:
   - link_name: Twitter
-    link: #
+    link: https://twitter.com/_jzhao
   - link_name: Github
-    link: #
+    link: https://github.com/jackyzha0

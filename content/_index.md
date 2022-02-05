@@ -1,7 +1,7 @@
 ---
 title: "Santiago's vault 🛸"
 ---
-This is an experimental site based on making connections, avoiding linearity, and releasing multiplicity.
+This is an experimental obsidian-based site through the connection of plain text markdowns simulating the multiple and nonlinear structure of human mind.
 
 ## h2
 > 📚 [Setup your own digital garden using Quartz](notes/setup.md)

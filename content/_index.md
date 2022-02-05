@@ -1,5 +1,5 @@
 ---
-title: "🍍 Santiago's vault"
+title: "🐋 Santiago's vault"
 ---
 This is an experimental site based on the premiseof creating a *second brain* by making connections. avoiding linearity, and releasing multiplicity.
 
@@ -11,7 +11,7 @@ Not convinced yet? Look at some [community digital gardens](notes/showcase.md) b
 ## Content Lists
 If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too: 
 
-- [All Notes](/notes)
+- [All Notes](/notes) 
 - [Setup-related Notes](/tags/setup)
 
 ## Troubleshooting

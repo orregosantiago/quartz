@@ -4,7 +4,7 @@ title: "Santiago's vault 🛸"
 This is an experimental obsidian-based site through the connection of plain text markdowns, simulating the multiple and nonlinear structure of human mind.
 
 ## Content list
-Navigate through all the main topics
+**Navigate through all the main topics**
 
 - [page 1](notes/page%201.md)
 - [page 2](notes/page%202.md)

@@ -11,4 +11,4 @@ This is an experimental obsidian-based site through the connection of plain text
 - [page 3](notes/page%203.md)
 
 ### ANother title
-and some extra text.
+and some extra text. A bit more of text.

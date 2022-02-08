@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://www.sorrego.xyz"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true

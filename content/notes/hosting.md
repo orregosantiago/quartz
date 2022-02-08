@@ -75,6 +75,6 @@ Have a custom domain? [Learn how to set it up with Quartz ](notes/custom%20Domai
 
 Now that your Quartz is live, let's figure out how to make Quartz really *yours*!
 
-🎨 [Customizing Quartz](notes/config.md)
+🎨 [Customizing Quartz](first%20page.md)
 
 Having problems? Checkout our [FAQ and Troubleshooting guide](notes/troubleshooting.md).

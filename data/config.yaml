@@ -1,12 +1,13 @@
-name: This site was made
+name: Jacky Zhao
 enableToc: true
 enableLinkPreview: true
 description:
-  This is an experimental obsidian-based site through the connection of plain text markdowns simulating the multiple and nonlinear structure of human mind. 
+  Here is the page description. This is an example Quartz site that details installation,
+  setup, customization, and troubleshooting for Quartz itself.
 page_title:
-  "Santiago's vault 🛸"
+  "🪴 Quartz 3"
 links:
   - link_name: Twitter
-    link: #
+    link: https://twitter.com/_jzhao
   - link_name: Github
-    link: #
+    link: https://github.com/jackyzha0

@@ -14,12 +14,8 @@
     </header>
     <article>
         {{if $.Site.Data.config.enableToc}}
-        <aside class="mainTOC">
-            <h3>Table of Contents</h3>
-            {{ .TableOfContents }}
-        </aside>
-        {{end}}
         {{- .Content -}}
+        {{end}}
     </article>
     {{partial "footer.html" .}}
 </div>

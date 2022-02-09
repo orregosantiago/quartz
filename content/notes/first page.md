@@ -1,7 +1,7 @@
 ---
 title: "First page"
 tags:
-- setup
+- test
 ---
 
 ## H2

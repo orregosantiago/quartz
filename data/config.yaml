@@ -2,9 +2,9 @@ name: This site was created
 enableToc: true
 enableLinkPreview: true
 description:
-  This blog is an experimental obsidian-based site through the connection of plain text markdowns, simulating the multiple and nonlinear structure of the human mind.
+  This blog is an experimental obsidian-based site. It was fabricated connecting plain text markdowns, simulating the multiple and nonlinear structure of the human mind. It works as a knowledge vault and (in the short future) as a regular journal.
 page_title:
-  "Santiago's vault 🛸"
+  "Santiago Orrego 🛸"
 links:
   - link_name: Twitter
     link: #

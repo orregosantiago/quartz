@@ -1,17 +1,19 @@
 ---
-title: "Posthuman Phenomenologies: Performance Philosophy, Non-Human Animals, and the Landscape"
+title: "Posthuman Phenomenologies"
 tags:
 - animal_studies
-- posthuman_phenomenology
+- posthumanism
+- phenomenology
 - speculative_philosophy
 ---
 
 ## Lewis and Owen 2019
 
 ### Metadata:
-
+- #### Full name:
+	- Posthuman Phenomenologies: Performance Philosophy, Non-Human Animals, and the Landscape
 - #### Author: 
-**Tyson_Lewis** and **Owen_James** 
+	- **Tyson_Lewis** and **Owen_James** 
 
 - #### Subject: 
 	- Phenomenology

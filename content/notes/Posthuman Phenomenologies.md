@@ -8,11 +8,15 @@ tags:
 
 # Lewis and Owen 2019
 
-#### Metadata:
+### Metadata:
 **Name: Posthuman Phenomenologies: Performance Philosophy, Non-Human Animals, and the Landscape**
-Author: **Tyson_Lewis** and **Owen_James** 
-Subject: Phenomenology, Animal studies
-Published date: 2019
+
+#### Author: 
+**Tyson_Lewis** and **Owen_James** 
+
+#### Subject: 
+- Phenomenology
+- Animal studies
 
 ---
 
@@ -21,6 +25,7 @@ Published date: 2019
 Lewis, T. E., & Owen, J. (2019).Posthuman Phenomenologies: Performance Philosophy, Non-Human Animals, and the Landscape. Qualitative Inquiry, 26(5), 472–478. [https://doi.org/10.1177/1077800419836694]
 ``
 
+## Extracted Annotations (2022-01-13)
 > "Western philosophical traditions from Descartes on have been haunted by an intellectualist thesis which centers the unique capacities of the human in an interior mental life. This particular feature of the human separates it in kind (rather than degree) from non-human, purely mechanistic lifeforms" 
 
 > "the intellectualist thesis is supported by two foundational assumptions: first, that humans can be defined in virtue of their minds, and second, that having a mind separates humans from non-human animals."
@@ -33,7 +38,7 @@ Lewis, T. E., & Owen, J. (2019).Posthuman Phenomenologies: Performance Philosoph
 
 > "Researchers such as Foster begin with the recognition that to understand what it is like to be a non-human animal, the human body itself must be transformed." 
 
-> "They explore their curiosity by attempting to "be" a non-human animal—to inhabit the world of the non-human other by augmenting their own bodies, habits, and ways of being in the world." ([Lewis and Owen 2020:472](zotero://open-pdf/library/items/QZWVXJQJ?page=1))
+> "They explore their curiosity by attempting to "be" a non-human animal—to inhabit the world of the non-human other by augmenting their own bodies, habits, and ways of being in the world." 
 
 > "Foster performs the human body differently, and in the process, touches upon a non-human excess that is not reducible to mere anthropocentric projection." 
 
@@ -45,17 +50,17 @@ Lewis, T. E., & Owen, J. (2019).Posthuman Phenomenologies: Performance Philosoph
 
 > "Uexküll thus highlights how animals simultaneously exist within effect spaces, tactile spaces, and visual spaces as well as unique temporalities that are attuned to their environmental stimuli to achieve a functional feedback loop. For instance, although a snail appears to move slowly for a human observer, within the spatio-temporality of its unique Umwelt, the snail has the same sense of motion occurring that we do—like the movement of the earth or the flicker of a screen, anything which moves too fast or too slow does not appear to move at all." 
 
-> "Uexküll notes how the same object in different Umwelten will take on radically different perceptual "tones" (p. 129). A logger might see an oak tree as "needing to be cut down," whereas a young child might perceive an ominous face in its bark, conveying a sense of danger. To introduce a non-human perspective, Uexküll cites the example of a fox living in a hollow at the base of the old oak" ([Lewis and Owen 2020:473](zotero://open-pdf/library/items/QZWVXJQJ?page=2))
+> "Uexküll notes how the same object in different Umwelten will take on radically different perceptual "tones" (p. 129). A logger might see an oak tree as "needing to be cut down," whereas a young child might perceive an ominous face in its bark, conveying a sense of danger. To introduce a non-human perspective, Uexküll cites the example of a fox living in a hollow at the base of the old oak" 
 
-> "Uexküll argues, "In accordance with the different effect tones, the perception images of the numerous inhabitants of the oak are configured differently" (p. 130). No single animal completely perceives the tree or the others' perspectives on the tree, although all of the perceptions form a shared Umwelt." ([Lewis and Owen 2020:473](zotero://open-pdf/library/items/QZWVXJQJ?page=2))
+> "Uexküll argues, "In accordance with the different effect tones, the perception images of the numerous inhabitants of the oak are configured differently" (p. 130). No single animal completely perceives the tree or the others' perspectives on the tree, although all of the perceptions form a shared Umwelt." 
 
-> "speculative biology always runs the risk of reifying the Umwelten of non-human animals." ([Lewis and Owen 2020:473](zotero://open-pdf/library/items/QZWVXJQJ?page=2))
+> "speculative biology always runs the risk of reifying the Umwelten of non-human animals." 
 
-> "Uexküll himself laments, "The environments [Umwelten] . . . are revealed only to our mind's eye and not to our body's" (p. 42)." ([Lewis and Owen 2020:473](zotero://open-pdf/library/items/QZWVXJQJ?page=2))
+> "Uexküll himself laments, "The environments (Umwelten) . . . are revealed only to our mind's eye and not to our body's" (p. 42)." 
 
-> "Absent here is the possibility that one might experience new tones beyond the speculative imagination through a more embodied form of phenomenological entanglement." ([Lewis and Owen 2020:473](zotero://open-pdf/library/items/QZWVXJQJ?page=2))
+> "Absent here is the possibility that one might experience new tones beyond the speculative imagination through a more embodied form of phenomenological entanglement."
 
-> "One possible extension of Uexküll's imaginative approach is through fabulation." ([Lewis and Owen 2020:473](zotero://open-pdf/library/items/QZWVXJQJ?page=2))
+> "One possible extension of Uexküll's imaginative approach is through fabulation." 
 
 *To turn into an hybrid allows that new element to perceive its environment with a broad perspective since it adds new connections, different “perceptual tones” to the comprehension of reality, adding, or being aware of how an element is composed of different ontological layers. And how through the mixture of selves one can access to more of them.*
 

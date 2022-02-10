@@ -4,4 +4,4 @@ tags:
 - test
 ---
 
-It is just a link to [first page](notes/first%20page.md)
+It is just a link to [Posthuman Phenomenologies](notes/Posthuman%20Phenomenologies.md)

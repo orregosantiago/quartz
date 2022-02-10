@@ -17,10 +17,6 @@ tags:
 	- Phenomenology
 	- Animal studies
 ---
-#### Citation
-``
-Lewis, T. E., & Owen, J. (2019).Posthuman Phenomenologies: Performance Philosophy, Non-Human Animals, and the Landscape. Qualitative Inquiry, 26(5), 472–478. [https://doi.org/10.1177/1077800419836694]
-``
 
 ## Extracted Annotations (2022-01-13)
 > "Western philosophical traditions from Descartes on have been haunted by an intellectualist thesis which centers the unique capacities of the human in an interior mental life. This particular feature of the human separates it in kind (rather than degree) from non-human, purely mechanistic lifeforms" 
@@ -80,3 +76,8 @@ Lewis, T. E., & Owen, J. (2019).Posthuman Phenomenologies: Performance Philosoph
 > "He never succeeded in becoming an animal, rather he touched the limit of the human, and by touching that limit, revealed an excess that is not reducible to humancentric ways of being or thinking." 
 
 *In the hybrid i am thinking, humans speak for the dog, with the dog, about the dog. Those are different positions. One is representing the dog, talking in behalf of the dog. With the dog, and about the dog. Those are not in,t speculations, but also observations, cooperative process.*
+
+### Citation
+``
+Lewis, T. E., & Owen, J. (2019).Posthuman Phenomenologies: Performance Philosophy, Non-Human Animals, and the Landscape. Qualitative Inquiry, 26(5), 472–478. [https://doi.org/10.1177/1077800419836694]
+``

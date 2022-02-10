@@ -6,20 +6,17 @@ tags:
 - speculative_philosophy
 ---
 
-# Lewis and Owen 2019
+## Lewis and Owen 2019
 
 ### Metadata:
-**Name: Posthuman Phenomenologies: Performance Philosophy, Non-Human Animals, and the Landscape**
 
-#### Author: 
+- #### Author: 
 **Tyson_Lewis** and **Owen_James** 
 
-#### Subject: 
-- Phenomenology
-- Animal studies
-
+- #### Subject: 
+	- Phenomenology
+	- Animal studies
 ---
-
 #### Citation
 ``
 Lewis, T. E., & Owen, J. (2019).Posthuman Phenomenologies: Performance Philosophy, Non-Human Animals, and the Landscape. Qualitative Inquiry, 26(5), 472–478. [https://doi.org/10.1177/1077800419836694]

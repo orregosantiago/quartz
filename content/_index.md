@@ -8,8 +8,9 @@ This blog is a personal, speculative, and experimental project based on a strong
 Some text in here 
 
 ## Knowledge Vault
- | category       | Tab                                                       |
- | -------------- | --------------------------------------------------------- |
- | Animal Studies | [Animal Studies](https://sorrego.xyz/tags/animal_studies) |
- |                |                                                           |
+#### Category       			#### Tab                                                       
+ 
+ Animal Studies 						 [Animal Studies](https://sorrego.xyz/tags/animal_studies)
+ 
+ 
  ## About me

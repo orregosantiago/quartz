@@ -2,7 +2,7 @@
 title: Santiago Orrego 🛸
 ---
            
-This blog is an experimental obsidian-based site. It was fabricated connecting plain text markdowns, simulating the multiple and nonlinear structure of the human mind. It works as a knowledge vault and (in the short future) as a regular journal.
+This blog is a personal, speculative, and experimental project based on a strong interest in decomposing the life happening outside. I talk about urban places, ethnographic artifacts, multispecies ethnography, and multimodal research. It works as a knowledge vault and (in the short future) as a regular journal.
 
 ## How to use this
 Some text in here 

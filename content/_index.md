@@ -9,9 +9,9 @@ This is not a traditional website, at least not right now. It is the unstable *f
 
 You can navigate through each topic by clicking on its name or following the tag structure if available.
 
-## 💾 Knowledge Vault 
+## 💾Knowledge Vault 
                                                      
-  Animal Studies  [Tags](https://sorrego.xyz/tags/animal_studies)
+  Animal Studies  [Tag](https://sorrego.xyz/tags/animal_studies)
  
  
- ## Personal Work
+ ##  🤖Personal Work

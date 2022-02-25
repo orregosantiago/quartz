@@ -8,7 +8,7 @@ This blog is a personal, speculative, and experimental project based on a strong
 This is not a traditional website, at least not right now. It is the unstable *frontend* of an Obsidian-based experiment that compiles markdowns, annotations, drafts, and *media-res* documents. The primary site’s navigation system is composed of a bunch of backlinks, an interactive graph (boot at the footer of the web), and the content area on this main page consisting of the *Knowledge Vault* and *Personal Work*.
 
 #### Site's Structure
-[Structure](/content/notes/images/workflows.jpg)
+![Structure](content/notes/images/workflows.jpg)
 
 ## Knowledge Vault
                                                      
